@@ -27,4 +27,4 @@ and randomly displays either Heads or Tails.
 - Show the total number of coin tosses.
 
 ## Author
-Siddhi Deshmukh
+**Siddhi Deshmukh**
